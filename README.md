@@ -1,5 +1,5 @@
 # ArtificialKnottedProteinsPaper
-materials and data related to "Unveiling the Entangled Landscape of Artificial Knotted Proteins" paper
+materials and data related to "[Unveiling the Entangled Landscape of Artificial Knotted Proteins](https://openreview.net/pdf?id=WozggTpEmv)" paper
 
 ### Dataset
 
